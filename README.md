@@ -3,4 +3,4 @@
 Hacker News App using Reactjs
 ---
 > ![Website](public/images/screenshotapp.png)
-> ### [LiveWebsite](https://react-foodap.netlify.app/)
+> ### [LiveWebsite](https://react-hackernewsapp.netlify.app/)
